@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BossCZE\\source\\repos\\Novak_RD_zaklady_programovani\\SpravaOsobnichFinanci\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA77EA59-7071-4783-9D28-B1A5937C06D2}|SpravaOsobnichFinanci\\SpravaOsobnichFinanci.csproj|c:\\users\\bosscze\\source\\repos\\novak_rd_zaklady_programovani\\spravaosobnichfinanci\\spravaosobnichfinanci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA77EA59-7071-4783-9D28-B1A5937C06D2}|SpravaOsobnichFinanci\\SpravaOsobnichFinanci.csproj|solutionrelative:spravaosobnichfinanci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BossCZE\\source\\repos\\Novak_RD_zaklady_programovani\\SpravaOsobnichFinanci\\SpravaOsobnichFinanci\\Program.cs",
+              "RelativeDocumentMoniker": "SpravaOsobnichFinanci\\Program.cs",
+              "ToolTip": "C:\\Users\\BossCZE\\source\\repos\\Novak_RD_zaklady_programovani\\SpravaOsobnichFinanci\\SpravaOsobnichFinanci\\Program.cs",
+              "RelativeToolTip": "SpravaOsobnichFinanci\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T08:07:51.044Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
